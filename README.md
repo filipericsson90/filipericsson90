@@ -18,4 +18,4 @@
     - Medical simulation for nurses and medical students
     - Currently trying to find time to learn the basics of Python between diaper changes
 - Contact information
-  - f.ericsson@rn.dk / filipericsson90@gmail.com
+  - f.lindgren@rn.dk / filiplynglindgren@protonmail.com
