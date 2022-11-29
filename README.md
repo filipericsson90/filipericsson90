@@ -14,6 +14,7 @@
     - Prognosis of myocarditis in Denmark
     - The association between echocardiographic findings and patients coronary computed tomography angiogram (CCTA) calcium-score.
   - Other projects
+    - Learning some machine learning with tidymodels
     - Translating articles in Danish, Norwegian and Swedish to English for the Cochrane TaskExchange
     - Medical simulation for nurses and medical students
     - Currently trying to find time to learn the basics of Python between diaper changes
